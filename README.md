@@ -1,6 +1,4 @@
-*******************
-* TAKEZO V7.0 (R) *
-*******************
+# TAKEZO V7.0 (R)
 
 In-Depth F.A.Q. by KGenjuro
 
@@ -18,9 +16,7 @@ Planet Funkotron Recordings
 written by KGenjuro
 (c) Daddelkingz (www.daddelkingz.de)
 
-=============
-=  CONTENT  =
-=============
+## CONTENT
 
 00. INSTALLATION
 01. BIO
@@ -32,30 +28,20 @@ written by KGenjuro
 07. COMBOS
 08. THANKS
 
-
-======================
-=  00. INSTALLATION  =
-======================
+## 00. INSTALLATION
 
 1. Download MUGEN from www.elecbyte.com
-
 2. Unzip it to your Harddrive
-
 3. Create the sub folder TAKEZO in MUGEN\CHARS\
-
 3. Unzip TAKEZO.ZIP into MUGEN\CHARS\TAKEZO\
-
 2. edit MUGEN\DATA\SELECT.CFG and insert the following line:
-   
+
    takezo
    
 for more information, refer to the original M.U.G.E.N documents
 coming with M.U.G.E.N
 
-
-=============
-=  01. BIO  =
-=============
+## 01. BIO
 
 Name           : Kibagami Takezo
 Day of birth   : 18th Januar, 1793
@@ -69,9 +55,7 @@ Weapon Info    : weapon of a cursed frog warrior
                  done by the master-swordmaker Masamune
 Fighting Style : the "Gambler's Sleeve"                 
 
-===============
-=  02. STORY  =
-===============
+## 02. STORY
 
 - Prolog -
 
@@ -173,12 +157,9 @@ spiritual gate. Back in the cave, he woke up with a massive headache...
 and another undead spirit next to him who granted him his support to
 the end of time, whenever he is in VERY, VERY deep trouble.
 
+## 03. BEHIND THE SCENE
 
-==========================
-=  03. BEHIND THE SCENE  =
-==========================
-
-Creating TAKEZO was a damn piece of work. As you might recognized, I
+Creating TAKEZO was a hard piece of work. As you might hve recognized, I
 can't draw really good. I mean, I am able to draw a few characters
 on a sheet of paper using a pen but when it comes to pixel-drawing...
 I'm screwed. That's the reason why I had to come up with something
@@ -208,10 +189,7 @@ the older versions of MUGEN and right now, I am recording voices for
 Dr.M's Brutal - Paws of Fury - Remix, where I will give my voice to
 Kendo Coyote and Karate Croc.
 
-
-===========================
-=  04. ABOUT THE CREATOR  =
-===========================
+## 04. ABOUT THE CREATOR
 
 Here are some informations about me.
 
@@ -227,10 +205,7 @@ like Samurai Shodown IV and Realbout Fatal Fury 2 until I fall asleep.
 Together with a close friend, I run the biggest german NeoGeo review
 page, www.daddelkingz.de 
 
-
-==============================
-=  05. HISTORYCAL REFERENCE  =
-==============================
+## 05. HISTORYCAL REFERENCE
 
 TAKEZO's "Historycal Reference" is more of a "Videogame Reference".
 Even a blind man can see his reference to Genjuro from Samurai Shodown
@@ -251,13 +226,9 @@ rings". The Samurai Shodown character Haohmaru is based on him. The
 Sprite of Musashi in my Takezo is taken from an ancient painting that
 shows Musashi training with two swords.
 
+## 06. MOVES
 
-===============
-=  06. MOVES  =
-===============
-
-
-THE BUTTON SYSTEM: (6-button pad/inspired by SS4)
+### THE BUTTON SYSTEM: (6-button pad/inspired by SS4)
 
 x - Light Punch (executes light specials)
 
@@ -267,9 +238,7 @@ z - Strong Slash (executes strong specials)
 
 a - Kicks
 
-
-
-ADVANCED BASIC-MOVES:
+### ADVANCED BASIC-MOVES:
 
 Run                       :  F, F
 
@@ -285,9 +254,7 @@ Stand-Up Attack           :  B + z (from lying down!)
 
 Evade                     :  x + y
 
-
-
-THE SPECIAL MOVES:
+### THE SPECIAL MOVES:
 
 Neo Blade of Thousand Demons :  QCF  +  z (up to 3 times)
 
@@ -332,19 +299,11 @@ Dragon Fury               :  (2 x QCF) +  y
 
 Dragon Fangs Mayhem       :  (2 x QCF) +  z
 
-
-
-================
-=  07. COMBOS  =
-================
+## 07. COMBOS
 
 not yet.
 
-
-
-================
-=  08. THANKS  =
-================
+## 08. THANKS
 
 [Elecbyte]
 for creating M.U.G.E.N, the ultimate fighting engine.
@@ -377,8 +336,4 @@ mugen-feature possible.
 ...and all Takezo fans! :)
 
 
-
-
 THANK YOU FOR PLAYING!
-
-
