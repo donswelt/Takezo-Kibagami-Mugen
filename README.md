@@ -57,7 +57,7 @@ Fighting Style : the "Gambler's Sleeve"
 
 ## 02. STORY
 
-- Prolog -
+### Prolog
 
 Not much is known about Takezo's childhood. He was raised by the keeper
 of a gambling house after his parents abandoned him when he was still
@@ -81,7 +81,7 @@ found proof for them being demons (like NOT farting after lunch, or
 SITTING in the bushes while peeing). Because of that fact, his 'pals'
 happens to be a little bit... strange ;)
 
-- Strange Pals #1: The Monk -
+### Strange Pals #1: The Monk
 
 While traveling through the land of Hizen, Takezo found an amulet
 carved with 108 demon names (it was rather large). He looked at it and
@@ -94,7 +94,7 @@ Takezo summoned the monk whenever he is in VERY deep trouble (notice
 the 'VERY', Takezo is ALWAYS in 'deep' trouble and it's not good to
 have a dead one-eyed guy hanging around yourself, 24/7).
 
-- Strange Pals #2: The Frog -
+### Strange Pals #2: The Frog
 
 On his journey to seek the demon, Takezo traveled on the road that
 leads from Osaka to Kyoto. On this road he reached a mountain, from
@@ -131,7 +131,7 @@ demons. I am soooooooo scared of demons!"
 note: this is in no way inspired by any japanese folktale ;)
 
 
-- Strange Pals #3: Miyamoto Musashi -
+### Strange Pals #3: Miyamoto Musashi
 
 On his journey, Takezo was forced to sleep in the wilderness often.
 One night, he found a cave equiped with a fire-pit and a sleeping
