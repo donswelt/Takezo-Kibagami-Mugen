@@ -43,17 +43,17 @@ coming with M.U.G.E.N
 
 ## 01. BIO
 
-Name           : Kibagami Takezo
-Day of birth   : 18th Januar, 1793
-Place of birth : Edo, Japan (propably in a whore-house ^_^)
-Fav. Food      : Chicken Wasabi
-Fav. Color     : Red
-Fav. Quote     : "All demon's must die!"
-Best friends   : a frog, a dead monk and a dead Miyamoto Musashi
-Weapon         : the legendary katana "Masamune"
-Weapon Info    : weapon of a cursed frog warrior
-                 done by the master-swordmaker Masamune
-Fighting Style : the "Gambler's Sleeve"                 
+Name           : Kibagami Takezo   
+Day of birth   : 18th Januar, 1793   
+Place of birth : Edo, Japan (propably in a whore-house ^_^)   
+Fav. Food      : Chicken Wasabi   
+Fav. Color     : Red   
+Fav. Quote     : "All demon's must die!"   
+Best friends   : a frog, a dead monk and a dead Miyamoto Musashi   
+Weapon         : the legendary katana "Masamune"   
+Weapon Info    : weapon of a cursed frog warrior   
+                 done by the master-swordmaker Masamune   
+Fighting Style : the "Gambler's Sleeve"                    
 
 ## 02. STORY
 
