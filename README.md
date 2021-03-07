@@ -1,4 +1,4 @@
-# TAKEZO V7.0 (R)
+# TAKEZO V7.0
 
 In-Depth F.A.Q. by KGenjuro
 
