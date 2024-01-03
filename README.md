@@ -20,13 +20,11 @@ written by KGenjuro
 
 00. INSTALLATION
 01. BIO
-02. STORY
-03. BEHIND THE SCENE
-04. ABOUT THE CREATOR
-05. HISTORYCAL REFERENCE
-06. MOVES
-07. COMBOS
-08. THANKS
+02. ABOUT THE CREATOR
+03. HISTORYCAL REFERENCE
+04. MOVES
+05. COMBOS
+06. THANKS
 
 ## 00. INSTALLATION
 
@@ -55,141 +53,7 @@ Weapon Info    : weapon of a cursed frog warrior
                  done by the master-swordmaker Masamune   
 Fighting Style : the "Gambler's Sleeve"                    
 
-## 02. STORY
-
-### Prolog
-
-Not much is known about Takezo's childhood. He was raised by the keeper
-of a gambling house after his parents abandoned him when he was still
-a baby. The gambler found him in a redlight district of Edo. He tought
-him the arts of sword-fighting. Takezo then developed his own unique
-technique when he was 12 years old. At the age of 18, he found a trace
-to his real father and he wanted to kill him in revenge for his struggle
-as a baby. But before he was able to found him, he heard rumors about
-is father being killed by a demon raised from hell. Takezo got scared...
-not because the dead of his real father but about the possible death
-of his mother. He asked the gambler about her whereabout but he could
-only guess. Takezo went on a journey to find his mother and to protect
-her from the evil demon... and of course while he is at it, to kill
-the demon.
-
-Takezo isn't the guy you like to introduce to ya mom, nor the cool
-fella with whom you like to party all night, drinking, smoking weed
-and stuff. That's why he don't have many friends around him. Mainly
-because he killed most of the people he met on his journey after he
-found proof for them being demons (like NOT farting after lunch, or
-SITTING in the bushes while peeing). Because of that fact, his 'pals'
-happens to be a little bit... strange ;)
-
-### Strange Pals #1: The Monk
-
-While traveling through the land of Hizen, Takezo found an amulet
-carved with 108 demon names (it was rather large). He looked at it and
-came to the conclusion that it was very ugly, so he threw it away. It
-broke while hitting the ground. Inside the amulet, the spirit
-of a long dead monk was held captive. After he recognized that he was
-free again, he sworn loyality to his brave rescuer until the end of
-time (or until he knows how to posses a human body). From then on
-Takezo summoned the monk whenever he is in VERY deep trouble (notice
-the 'VERY', Takezo is ALWAYS in 'deep' trouble and it's not good to
-have a dead one-eyed guy hanging around yourself, 24/7).
-
-### Strange Pals #2: The Frog
-
-On his journey to seek the demon, Takezo traveled on the road that
-leads from Osaka to Kyoto. On this road he reached a mountain, from
-which he heard that one can see both towns Osaka and Kyoto. He decided
-to climb up to the peak of the mountain to enjoy the view. Just a
-minute before he reached the mountain's top, Takezo accidently stepped
-on something rather softly and he heard something that sounds like
-'squit...'. He looked down a saw a flat frog lying on the ground.
-The frog had a last thought: "...just... when I finished...
-the half way to... Kyo...to...". He then died. Takezo continued his
-walk to the top where he met another frog. They both look each other
-in the face and they kept quite for a few minutes. After a few more
-minutes they fell into the following conversation:
-
-Frog:
-"can you show me the way to Osaka?"
-
-Takezo:
-"I don't understand you, are you searching a demon, too?"
-
-Frog:
-"I don't understand you, but I guess you will led me to Osaka, not?"
-
-Takezo:
-"Heh, we can search together! I will help you finding your demon and
-you will help me finding mine!"
-
-Frog:
-"Now then... let's go to Osaka! I just hope we don't encounter any
-demons. I am soooooooo scared of demons!"
-
-...
-
-note: this is in no way inspired by any japanese folktale ;)
-
-
-### Strange Pals #3: Miyamoto Musashi
-
-On his journey, Takezo was forced to sleep in the wilderness often.
-One night, he found a cave equiped with a fire-pit and a sleeping
-place. Takezo went to sleep. He woke up suddenly in the middle of
-the night because he heard a strange sound, outside the cave. While
-he rised his head, he forgot that he was in a cave and his head
-collided with the massive rock-hard ceiling. The heavy shake pushed
-his spirit out of his head into a spiritual world where he found
-himself lying on a beach. He then saw a beautiful ghost with a long
-sword chasing swallows along the beach. After he examined the scene
-carefully he noticed that the beautiful spirit was a young man (yuk!)
-and he also saw another ghost. An old man followed the young one with
-two swords in his hand, screaming: "I CAN'T TAKE IT ANYMORE!!! DAMN
-YOU! LEAVE ME ALONE WITH YOUR STUPID SWALLOW SLICES DAY BY DAY, HOUR
-BY HOUR.... DAMN YOU!!!". At that moment, Takezo's body regained it's
-original condition and a spiritual gate appears behind him to drag the
-lost soul back to it's body. The old man saw the odd thing that
-happened only a few yards away from him and started to scream: "HEY!
-WAIT! PLEASE, TAKE ME WITH YOU! I CAN'T STAY HERE ANY LONGER TOGETHER
-WITH THIS SWALLOW SLICING MANIAC!". Before Takezo recognized whats
-going on, he found himself in the arms of the old man passing the
-spiritual gate. Back in the cave, he woke up with a massive headache...
-and another undead spirit next to him who granted him his support to
-the end of time, whenever he is in VERY, VERY deep trouble.
-
-## 03. BEHIND THE SCENE
-
-Creating TAKEZO was a hard piece of work. As you might hve recognized, I
-can't draw really good. I mean, I am able to draw a few characters
-on a sheet of paper using a pen but when it comes to pixel-drawing...
-I'm screwed. That's the reason why I had to come up with something
-funny. All the cute little superdeformed drawings of skilled artist
-like Masamune Shiro and Jukito Kishiro came to my mind. They are
-indeed very simple, but the are very funny because of their overacting
-when it comes to show emotions. That's what I wanted to do: creating
-a rather ugly sprite and putting in funny animations and stuff.
-
-I liked (and still like) to do a serious character, but the simple fact
-is: I can't... but what the hell :) TAKEZO turned out to be a very
-funny looking guy and that's cool, too.
-
-I created every single frame in photshop 5.0 using the advantage of
-the layer-feature to animate Takezo's bodyparts. Don't ask me why I
-didn't put at least a little shading into him. I dunno myself. On my
-Harddisk I have some frames of Takezo with shading applyed. I'm
-thinking about releasing a new .sff-file for him, sometimes in the
-future.
-
-I did the recordings for TAKEZO's voice myself, using Wavelab.
-Of course, I pitched the recordings to a lot higher level to make my
-rather deep and rough voice fit TAKEZO's overall funny look. I love
-giving my voice to video-game characters. For those of you who don't
-know, I also did the voices for my MUGEN-Adaption of SNK's BigMan for
-the older versions of MUGEN and right now, I am recording voices for
-Dr.M's Brutal - Paws of Fury - Remix, where I will give my voice to
-Kendo Coyote and Karate Croc.
-
-## 04. ABOUT THE CREATOR
+## 02. ABOUT THE CREATOR
 
 Here are some informations about me.
 
@@ -205,7 +69,7 @@ like Samurai Shodown IV and Realbout Fatal Fury 2 until I fall asleep.
 Together with a close friend, I run the biggest german NeoGeo review
 page, www.daddelkingz.de 
 
-## 05. HISTORYCAL REFERENCE
+## 03. HISTORYCAL REFERENCE
 
 TAKEZO's "Historycal Reference" is more of a "Videogame Reference".
 Even a blind man can see his reference to Genjuro from Samurai Shodown
@@ -226,7 +90,7 @@ rings". The Samurai Shodown character Haohmaru is based on him. The
 Sprite of Musashi in my Takezo is taken from an ancient painting that
 shows Musashi training with two swords.
 
-## 06. MOVES
+## 04. MOVES
 
 ### THE BUTTON SYSTEM: (6-button pad/inspired by SS4)
 
@@ -299,11 +163,11 @@ Dragon Fury               :  (2 x QCF) +  y
 
 Dragon Fangs Mayhem       :  (2 x QCF) +  z
 
-## 07. COMBOS
+## 05. COMBOS
 
 not yet.
 
-## 08. THANKS
+## 06. THANKS
 
 [Elecbyte]
 for creating M.U.G.E.N, the ultimate fighting engine.
